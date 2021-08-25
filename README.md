@@ -110,7 +110,7 @@ webpmux -version
 - [Trakteer](https://trakteer.id/aqulzz)
 
 # Features
-- Cek [disini](https://github.com/Xinz-Team/XinzBot/blob/main/message/help.js)
+- Cek [disini](https://github.com/Zack-Team/ZackBot/blob/main/message/help.js)
 
 # Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
