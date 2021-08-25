@@ -1,5 +1,5 @@
 {
-  "name": "XinzBot",
+  "name": "ZackBot",
   "version": "1.0.0",
   "description": "Ga ada",
   "main": "main.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "aqulzz",
+  "author": "inisialLK",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.1",
     "@vitalets/google-translate-api": "^7.0.0",
@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xinz-Team/XinzBot.git"
+    "url": "git+https://github.com/Zack-Team/ZackBot.git"
   },
   "bugs": {
-    "url": "https://github.com/Xinz-Team/XinzBot/issues"
+    "url": "https://github.com/Zack-Team/ZackBot/issues"
   },
-  "homepage": "https://github.com/Xinz-Team/XinzBot#readme"
+  "homepage": "https://github.com/Zack-Team/ZackBot#readme"
 }
