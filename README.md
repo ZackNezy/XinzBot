@@ -1,24 +1,24 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/Itsuki.jpg" alt="XINZ BOT" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/Zack-Team/ZackBot/main/media/Itsuki.jpg" alt="ZACK BOT" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="XINZ BOT" src="https://img.shields.io/badge/XINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ZACK BOT" src="https://img.shields.io/badge/ZACK BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zennn08"><img title="Author" src="https://img.shields.io/badge/Author-zennn08-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zennn08/followers"><img title="Followers" src="https://img.shields.io/github/followers/zennn08?color=blue&style=flat-square"></a>
-<a href="https://github.com/zennn08/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Xinz-Team/XinzBot?color=red&style=flat-square"></a>
-<a href="https://github.com/zennn08/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Xinz-Team/XinzBot?color=red&style=flat-square"></a>
-<a href="https://github.com/zennn08/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Xinz-Team/XinzBot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/zennn08/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Xinz-Team/ZackBot?color=red&style=flat-square"></a>
+<a href="https://github.com/zennn08/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Xinz-Team/ZackBot?color=red&style=flat-square"></a>
+<a href="https://github.com/zennn08/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Xinz-Team/ZackBot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Xinz-Team/XinzBot#requirements">Requirements</a> •
-  <a href="https://github.com/Xinz-Team/XinzBot#instalasi">Installation</a> •
-  <a href="https://github.com/Xinz-Team/XinzBot#features">Features</a> •
-  <a href="https://github.com/Xinz-Team/XinzBot#thanks-to">Thanks to</a>
+  <a href="https://github.com/Zack-Team/ZackBot#requirements">Requirements</a> •
+  <a href="https://github.com/Zack-Team/ZackBot#instalasi">Installation</a> •
+  <a href="https://github.com/Zack-Team/ZackBot#features">Features</a> •
+  <a href="https://github.com/Zack-Team/ZackBot#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -38,8 +38,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Xinz-Team/XinzBot.git
-cd XinzBot
+git clone https://github.com/Zack-Team/ZackBot.git
+cd ZackBot
 npm install
 node main
 ```
@@ -48,8 +48,8 @@ node main
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
-cd XinzBot
+git clone https://github.com/Zack-Team/ZackBot.git
+cd ZackBot
 npm install
 node main
 ```
@@ -57,21 +57,21 @@ node main
 ## For VPS
 ```bash
 apt install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
-cd XinzBot
+git clone https://github.com/Zack-Team/ZackBot.git
+cd ZackBot
 npm install
 node main
 ```
 
 ## Edit file
-- Change ownerNumber on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L2)
-- Change ownerName on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L3)
-- Change botName on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L6)
-- Change Apikey on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L8)
-- Change fakeReply on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L9)
-- Change Donasi on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L12)
-- You can edit list menu on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/message/help.js#L147)
-- You can add fiture on [this section](https://github.com/Xinz-Team/XinzBot/blob/main/message/xinz.js)
+- Change ownerNumber on [this section](https://github.com/Zack-Team/ZackBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L2)
+- Change ownerName on [this section](https://github.com/Zack-Team/ZackBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L3)
+- Change botName on [this section](https://github.com/Zack-Team/ZackBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L6)
+- Change Apikey on [this section](https://github.com/Zack-Team/ZackBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L8)
+- Change fakeReply on [this section](https://github.com/Zack-Team/ZackBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L9)
+- Change Donasi on [this section](https://github.com/Zack-Team/ZackBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L12)
+- You can edit list menu on [this section](https://github.com/Zack-Team/ZackBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/message/help.js#L147)
+- You can add fiture on [this section](https://github.com/Zack-Team/ZackBot/blob/main/message/xinz.js)
 
 
 ## Installing the FFmpeg for Windows
@@ -122,3 +122,4 @@ webpmux -version
 * [`SlavyanDesu`](https://github.com/SlavyanDesu)
 * [`VideFrelan`](https://github.com/VideFrelan)
 * [`TobyG74`](https://github.com/TobyG74)
+* [`ZackBot`](https://github.com/Zack-Team)
